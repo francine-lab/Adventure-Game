@@ -1,7 +1,5 @@
 # Python - Adventure Game
 
-This project combines HTML and CSS skills.
-
 The job was to apply Python and object-oriented programming skills to build a program that plays the game of Rock Paper Scissors.
 
 ## Tasks performed to achieve this project
